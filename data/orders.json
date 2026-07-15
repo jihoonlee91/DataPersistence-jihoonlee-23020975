@@ -1,9 +1,0 @@
-[
-  {
-    "order_id": "ORD-0001",
-    "sample_id": "S-001",
-    "customer": "삼성전자 파운드리",
-    "quantity": 200,
-    "status": "CONFIRMED"
-  }
-]
